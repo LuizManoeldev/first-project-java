@@ -8,6 +8,7 @@ O programa conta com uma interface console e uma grafica.
   - Mudar uma placa de vaga
   - Listar todas as vagas
   - Listar todas as vagas livres
+  - Gravar os dados em arquivos csv
  
 - Aprendizado 
   - Fundamentos Basicos da Linguagem
